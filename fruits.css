@@ -1,0 +1,29 @@
+.box{
+    border: 10px black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.box img{
+    max-width: calc(20%-40px);
+}
+.box h2{
+    font-size: 32px;
+    font-weight: bold;
+    text-align:center;
+}
+.box p{
+    font-size: 18px;
+    font-weight: 200;
+    text-align:center;
+}
+.box a{
+    text-align: center;
+    font-size: 19px;
+    font-weight: 300;
+    color: white;
+    background-color: green;
+    padding-top: 3px;
+    padding-left: 5px;
+    padding-bottom: 3px;
+    padding-right: 5px;
+}
